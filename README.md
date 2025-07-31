@@ -4,7 +4,7 @@
 A dynamic, interactive Power BI dashboard to monitor and optimize performance for a hyperlocal grocery delivery service.
 
 📈 Overview
-This project provides a comprehensive analytics dashboard designed to help businesses track and optimize key metrics like sales, ratings, outlet performance, and nutritional insights — all in one place.
+>This project provides a comprehensive analytics dashboard designed to help businesses track and optimize key metrics like sales, ratings, outlet performance, and nutritional insights — all in one place.
 
 💡 Features
 
